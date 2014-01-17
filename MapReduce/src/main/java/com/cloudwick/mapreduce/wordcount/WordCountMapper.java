@@ -1,4 +1,4 @@
-package org.cloudwick.mapreduce.wordcount;
+package com.cloudwick.mapreduce.wordcount;
 
 import org.apache.hadoop.mapreduce.Mapper;
 import org.apache.hadoop.io.IntWritable;
